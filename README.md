@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 📫 How to reach me: https://kennykangmpc.github.io/Kangqi.github.io/
-- 🌱 I’m currently learning high performance computing, advanced quantum computing, and finite element methods
+- 📫 How to reach me: [`Personal Website`](https://kennykangmpc.github.io/Kangqi.github.io/)
+- 🌱 I’m currently learning [`high performance computing`](https://github.com/KennyKangMPC/CS-759), [`advanced quantum computing`](https://github.com/KennyKangMPC/Physics-779), and [`finite element methods`](https://github.com/KennyKangMPC/Math-715)
 - 🔭 I’m currently working on data driven sea ice-ocean-atmosphere dynamics modeling and general system of hyperbolic equations solver
 - ⚡ Fun fact: I am a grandmaster in league of legend NA and I play jungle
 <p align="middle">
