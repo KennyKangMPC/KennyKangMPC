@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: [`Personal Website`](https://kennykangmpc.github.io/Kangqi.github.io/)
-- 👯 In fall 2021, I wilh pursue Ph.D. in either EECS [@`MIT`](https://www.eecs.mit.edu/) or applied and computational math [@`Courant Institute of Mathematical Sciences`](https://www.courant.nyu.edu/), NYU.
+- 👯 In fall 2021, I wilh pursue Ph.D. in either EECS [@`MIT`](https://www.eecs.mit.edu/) or applied and computational math [@`Courant Institute of Mathematical Sciences`](https://www.courant.nyu.edu/).
 - 🌱 I’m currently learning [`high performance computing`](https://github.com/KennyKangMPC/CS-759), [`advanced quantum computing`](https://github.com/KennyKangMPC/Physics-779), [`plasma physics`](http://mediasite.engr.wisc.edu/Mediasite/Catalog/Full/7b399ee95a21457491e921a3fe66a51b21/2139e2add08849ceae646b794c95436c14/7b399ee95a21457491e921a3fe66a51b21), [`advanced PDE`](https://www.math.wisc.edu/~jeanluc/704.php), and [`finite element methods`](https://github.com/KennyKangMPC/Math-715)
 - 🔭 I’m currently working on data driven sea ice-ocean-atmosphere dynamics modeling and general system of hyperbolic equations solver
 - ⚡ Fun fact: I am a grandmaster in league of legend NA and I play jungle
