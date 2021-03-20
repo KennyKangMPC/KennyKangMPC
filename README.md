@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 My Chinese name is 付康琪. My favorite saying is "Life springs from sorrow and calamity; death comes from ease and pleasure". In Chinese, the sentense is "生于忧患，死于安乐".
+- 😄 My Chinese name is 付康琪. My favorite saying is "生于忧患，死于安乐". In English, the sentense is "Life springs from sorrow and calamity; death comes from ease and pleasure".
 - 📫 How to reach me: [`Personal Website`](https://kennykangmpc.github.io/Kangqi.github.io/)
 - 👯 In fall 2021, I wilh pursue Ph.D. in either EECS [@`MIT`](https://www.eecs.mit.edu/) or applied and computational math [@`Courant Institute of Mathematical Sciences`](https://www.courant.nyu.edu/).
 - 🌱 I’m currently learning [`high performance computing`](https://github.com/KennyKangMPC/CS-759), [`advanced quantum computing`](https://github.com/KennyKangMPC/Physics-779), [`plasma physics`](http://mediasite.engr.wisc.edu/Mediasite/Catalog/Full/7b399ee95a21457491e921a3fe66a51b21/2139e2add08849ceae646b794c95436c14/7b399ee95a21457491e921a3fe66a51b21), [`advanced PDE`](https://www.math.wisc.edu/~jeanluc/704.php), and [`finite element methods`](https://github.com/KennyKangMPC/Math-715)
