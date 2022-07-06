@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 My name is 付康琪
-- 📫 How to reach me: Website is in Upgrade<!-- - [`Personal Website`](https://kennykangmpc.github.io/Kangqi.github.io/) -->
+- 📫 How to reach me: fkqmcs@gmail.com<!-- - [`Personal Website`](https://kennykangmpc.github.io/Kangqi.github.io/) -->
 - 🌱 More information will be linked here.
 <!-- - 👯 In fall 2021, I will start my Ph.D. journey in [`Mathematics `](https://math.nyu.edu/dynamic/phd/phd-mathematics)[@`Courant Institute of Mathematical Sciences`](https://www.courant.nyu.edu/). -->
 <!-- - 🌱 This summer I’m self learning [`Courant Linear Algebra`](https://www.math.nyu.edu/~deift/LA2019/), [`Stochastic Calculus`](https://www.math.nyu.edu/~goodman/teaching/StochCalc2019/resources.html), [`Linear System`](https://laurentlessard.com/teaching/717-linear-systems/), and [`Advanced Computer Vision from CMU`](http://www.cs.cmu.edu/~16385/)
