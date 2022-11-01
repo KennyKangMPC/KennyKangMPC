@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 My name is 付康琪
 - 📫 How to reach me: fkqmcs@gmail.com<!-- - [`Personal Website`](https://kennykangmpc.github.io/Kangqi.github.io/) -->
-- 🌱 I am a math PhD student focusing on probability theory, Geometrical Analysis, mathematical physics like statistical mechanics and quantum field theory, PDE, and optimal transport theory
+- 🌱 I am a math PhD student focusing on probability theory, Geometrical Analysis, mathematical physics like statistical mechanics and quantum field theory, PDE, optimal transport theory, and Point Set Registration Problem.
 <!-- - 👯 In fall 2021, I will start my Ph.D. journey in [`Mathematics `](https://math.nyu.edu/dynamic/phd/phd-mathematics)[@`Courant Institute of Mathematical Sciences`](https://www.courant.nyu.edu/). -->
 <!-- - 🌱 This summer I’m self learning [`Courant Linear Algebra`](https://www.math.nyu.edu/~deift/LA2019/), [`Stochastic Calculus`](https://www.math.nyu.edu/~goodman/teaching/StochCalc2019/resources.html), [`Linear System`](https://laurentlessard.com/teaching/717-linear-systems/), and [`Advanced Computer Vision from CMU`](http://www.cs.cmu.edu/~16385/)
 - 🌱 I am intending to learn [`discrete differenal geometry from CMU`](https://brickisland.net/DDGSpring2021/) and other stuff this fall.
