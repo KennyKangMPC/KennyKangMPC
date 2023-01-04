@@ -6,10 +6,10 @@
 <!-- - 🌱 This summer I’m self learning [`Courant Linear Algebra`](https://www.math.nyu.edu/~deift/LA2019/), [`Stochastic Calculus`](https://www.math.nyu.edu/~goodman/teaching/StochCalc2019/resources.html), [`Linear System`](https://laurentlessard.com/teaching/717-linear-systems/), and [`Advanced Computer Vision from CMU`](http://www.cs.cmu.edu/~16385/)
 - 🌱 I am intending to learn [`discrete differenal geometry from CMU`](https://brickisland.net/DDGSpring2021/) and other stuff this fall.
 - 🔭 I’m currently working on data driven sea ice-ocean-atmosphere dynamics modeling, general system of hyperbolic equations solver, and reinforcement learning in turbulence study -->
-- ⚡ Fun fact: I love playing league of legend
+<!-- - ⚡ Fun fact: I love playing league of legend
 <p align="middle">
   <img src = "./league.jpg" width="100%">
-</p>
+</p> -->
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=KennyKangMPC)
 <!--
